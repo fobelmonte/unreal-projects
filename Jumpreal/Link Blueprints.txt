@@ -1,0 +1,44 @@
+JUMPREAL is an academic prototype. This project is a perfectly running and functional platform 3D project. 
+
+The player has lifebar, can move around and jump, cannons shoot cannonballs that damage the player, and hearts can restore player's health. 
+The objective is to collect all the coins in the stage and then reach the flag. 
+If player's health reachs zero or falls from the platforms, the level and coins collected are restarted.
+
+BLUEPRINTS:
+-----------
+
+GAME INSTANCE
+https://blueprintue.com/blueprint/90n4xobj/
+
+GAME MODE
+https://blueprintue.com/blueprint/-atwu521/
+
+PLAYER CONTROLLER
+https://blueprintue.com/blueprint/u2b6fa2y/
+
+BP_MovingPlatform
+https://blueprintue.com/blueprint/h8_3_-rr/
+
+BP_CannonBall
+https://blueprintue.com/blueprint/05zy6fq2/
+
+BP_Cannon
+https://blueprintue.com/blueprint/k3dwai0j/
+
+BP_AutomaticDoor
+blueprintue.com/blueprint/rycxwtmi/
+
+BP_ButtonDoor
+https://blueprintue.com/blueprint/sffj-wxz/
+
+BP_Coin
+https://blueprintue.com/blueprint/zsq7x4x9/
+
+BP_Heart
+https://blueprintue.com/blueprint/4k38pm1e/
+
+BP_DeathZone
+https://blueprintue.com/blueprint/l2z75ecj/
+
+BP_VictoryZone
+https://blueprintue.com/blueprint/hzzps14c/
