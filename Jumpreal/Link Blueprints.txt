@@ -7,9 +7,11 @@ If player's health reachs zero or falls from the platforms, the level and coins 
 BLUEPRINTS:
 -----------
 
-[GAME INSTANCE](https://blueprintue.com/blueprint/90n4xobj/)
+GAME INSTANCE
+https://blueprintue.com/blueprint/90n4xobj/
 
-[GAME MODE](https://blueprintue.com/blueprint/-atwu521/)
+GAME MODE
+https://blueprintue.com/blueprint/-atwu521/
 
 PLAYER CONTROLLER
 https://blueprintue.com/blueprint/u2b6fa2y/
@@ -40,6 +42,7 @@ https://blueprintue.com/blueprint/l2z75ecj/
 
 BP_VictoryZone
 https://blueprintue.com/blueprint/hzzps14c/
+
 
 
 
