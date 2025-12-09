@@ -8,7 +8,7 @@ BLUEPRINTS:
 -----------
 
 GAME INSTANCE
-https://blueprintue.com/blueprint/90n4xobj/
+(https://blueprintue.com/blueprint/90n4xobj/)
 
 GAME MODE
 https://blueprintue.com/blueprint/-atwu521/
@@ -42,4 +42,5 @@ https://blueprintue.com/blueprint/l2z75ecj/
 
 BP_VictoryZone
 https://blueprintue.com/blueprint/hzzps14c/
+
 
